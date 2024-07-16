@@ -33,7 +33,7 @@ public class sampleTest2 {
 			driver = new ChromeDriver();
 		}
 
-		driver.get("https://flipkart.com");
+		driver.get("https://www.meesho.com/");
 
 	}
 

@@ -3,7 +3,7 @@
 <suite thread-count="2" parallel="tests" name="Suite">
 	<test name="Test">
 
-		<parameter name="browser" value="Firefox"></parameter>
+		<parameter name="browser" value="Chrome"></parameter>
 		<classes>
 
 			<class name="com.comcast.ecommerce.PracticeTest.sampleTest1"></class>

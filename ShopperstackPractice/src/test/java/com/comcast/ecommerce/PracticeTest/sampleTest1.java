@@ -29,7 +29,7 @@ public class sampleTest1 {
 		}
 		
 		
-		driver.get("https://amazom.in");
+		driver.get("https://www.wikipedia.org/");
 			
 
 	}
